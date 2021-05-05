@@ -7,4 +7,4 @@
   - 🦍 Machine learning to identify gorillas
   - 🚙 LoRaWAN network to monitor animals and vehicles
   - 🐤 Mobile application for rangers to identify species
-- 📫 If you want to get in touch with us, reach out at cslaught@virunga.org.
+- 📫 If you want to get in touch about technology related projects, reach out to cslaught@virunga.org.
